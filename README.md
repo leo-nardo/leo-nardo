@@ -7,15 +7,4 @@
 
 ## 📈 Estatísticas
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-    <img 
-        alt="GitHub Stats" 
-        height="180px"
-        src="https://github-readme-stats.vercel.app/api?username=leo-nardo&show_icons=true&theme=radical&include_all_commits=True&locale=pt-br"
-    />
-    <img 
-        alt="Top Langs" 
-        height="180px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-nardo&layout=compact&include_all_commits=True&locale=pt-br"
-    />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leo-nardo&theme=dark)
