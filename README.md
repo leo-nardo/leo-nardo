@@ -20,7 +20,7 @@ Mais do que fomentar o cenário tecnológico da região Norte, a comunidade é o
 
 - 🌵 Arquitetando soluções e liderando a [Devs Tocantins](https://github.com/devs-tocantins)
 - 💡 Transformando ideias em inovações
-- 💼 Compartilhando insights e networking no [LinkedIn](COLOQUE_SEU_LINK_AQUI)
+- 💼 Compartilhando insights e networking no [LinkedIn](www.linkedin.com/in/leonardo-vinicius-batista-santos-396745209)
 - ✉️ Aberto a desafios focados em inovação e impacto via leonardovinicius9987@gmail.com
 
 <br/>
